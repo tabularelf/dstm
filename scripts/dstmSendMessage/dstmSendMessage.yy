@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "dstmTrigger",
+  "name": "dstmSendMessage",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

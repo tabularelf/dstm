@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "dstmTriggerAsync",
+  "name": "dstmSendMessageAsync",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

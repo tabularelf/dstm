@@ -9,5 +9,5 @@ dstmSubAdd("bar", function(_inst) {
 	show_debug_message(current_time);
 });
 
-dstmTrigger("foo");
-dstmTriggerAsync("bar");
+dstmSendMessage("foo");
+dstmSendMessageAsync("bar");

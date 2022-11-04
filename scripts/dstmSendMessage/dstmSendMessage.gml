@@ -1,4 +1,4 @@
-function dstmTrigger(_name) {
+function dstmSendMessage(_name) {
 	static _inst = __dstmSingleton();
 	_inst.__isdstm = true;
 	_inst.__currentEvent = (is_string(_name)) ? new __dstmSubscriber(_name) : _name;
