@@ -1,0 +1,58 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "dstm",
+  "resources": [
+    {"id":{"name":"dstmRemove","path":"scripts/dstmRemove/dstmRemove.yy",},"order":5,},
+    {"id":{"name":"dstmTriggerAsync","path":"scripts/dstmTriggerAsync/dstmTriggerAsync.yy",},"order":3,},
+    {"id":{"name":"dstmEvent","path":"scripts/dstmEvent/dstmEvent.yy",},"order":0,},
+    {"id":{"name":"__dstmError","path":"scripts/__dstmError/__dstmError.yy",},"order":0,},
+    {"id":{"name":"dstmExists","path":"scripts/dstmExists/dstmExists.yy",},"order":6,},
+    {"id":{"name":"__dstmTrace","path":"scripts/__dstmTrace/__dstmTrace.yy",},"order":4,},
+    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":3,},
+    {"id":{"name":"__dstmInit","path":"scripts/__dstmInit/__dstmInit.yy",},"order":6,},
+    {"id":{"name":"__dstmEventCreate","path":"scripts/__dstmEventCreate/__dstmEventCreate.yy",},"order":1,},
+    {"id":{"name":"dstmGetCurrentEventInstance","path":"scripts/dstmGetCurrentEventInstance/dstmGetCurrentEventInstance.yy",},"order":9,},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":5,},
+    {"id":{"name":"dstmTick","path":"scripts/dstmTick/dstmTick.yy",},"order":1,},
+    {"id":{"name":"__dstmSubscriber","path":"scripts/__dstmSubscriber/__dstmSubscriber.yy",},"order":3,},
+    {"id":{"name":"dstmGetCurrentEventName","path":"scripts/dstmGetCurrentEventName/dstmGetCurrentEventName.yy",},"order":8,},
+    {"id":{"name":"dstmTrigger","path":"scripts/dstmTrigger/dstmTrigger.yy",},"order":2,},
+    {"id":{"name":"dstmAdd","path":"scripts/dstmAdd/dstmAdd.yy",},"order":4,},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":1,},
+  ],
+  "Options": [
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"pubsub","folderPath":"folders/pubsub.yy","order":4,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"System","folderPath":"folders/pubsub/System.yy","order":7,},
+  ],
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.9.1.51",
+  },
+}

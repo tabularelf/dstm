@@ -1,0 +1,1 @@
+dstmEvent("foo", "bar");
