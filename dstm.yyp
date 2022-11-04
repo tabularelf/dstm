@@ -3,11 +3,11 @@
   "resourceVersion": "1.6",
   "name": "dstm",
   "resources": [
-    {"id":{"name":"dstmRemove","path":"scripts/dstmRemove/dstmRemove.yy",},"order":5,},
+    {"id":{"name":"dstmSubRemove","path":"scripts/dstmSubRemove/dstmSubRemove.yy",},"order":5,},
     {"id":{"name":"dstmTriggerAsync","path":"scripts/dstmTriggerAsync/dstmTriggerAsync.yy",},"order":3,},
-    {"id":{"name":"dstmEvent","path":"scripts/dstmEvent/dstmEvent.yy",},"order":0,},
+    {"id":{"name":"dstmSubEvent","path":"scripts/dstmSubEvent/dstmSubEvent.yy",},"order":0,},
     {"id":{"name":"__dstmError","path":"scripts/__dstmError/__dstmError.yy",},"order":0,},
-    {"id":{"name":"dstmExists","path":"scripts/dstmExists/dstmExists.yy",},"order":6,},
+    {"id":{"name":"dstmSubExists","path":"scripts/dstmSubExists/dstmSubExists.yy",},"order":6,},
     {"id":{"name":"__dstmTrace","path":"scripts/__dstmTrace/__dstmTrace.yy",},"order":4,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":3,},
     {"id":{"name":"__dstmInit","path":"scripts/__dstmInit/__dstmInit.yy",},"order":6,},
@@ -18,7 +18,7 @@
     {"id":{"name":"__dstmSubscriber","path":"scripts/__dstmSubscriber/__dstmSubscriber.yy",},"order":3,},
     {"id":{"name":"dstmGetCurrentEventName","path":"scripts/dstmGetCurrentEventName/dstmGetCurrentEventName.yy",},"order":8,},
     {"id":{"name":"dstmTrigger","path":"scripts/dstmTrigger/dstmTrigger.yy",},"order":2,},
-    {"id":{"name":"dstmAdd","path":"scripts/dstmAdd/dstmAdd.yy",},"order":4,},
+    {"id":{"name":"dstmSubAdd","path":"scripts/dstmSubAdd/dstmSubAdd.yy",},"order":4,},
     {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":1,},
   ],
   "Options": [

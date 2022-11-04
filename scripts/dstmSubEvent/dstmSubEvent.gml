@@ -1,4 +1,4 @@
-function dstmEvent() {
+function dstmSubEvent() {
 	static _inst = __dstmSingleton();
 	if (_inst.__isdstm) {
 		var _msg = _inst.__currentEvent;

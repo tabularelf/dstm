@@ -1,1 +1,1 @@
-dstmEvent("foo", "bar");
+dstmSubEvent("foo", "bar");

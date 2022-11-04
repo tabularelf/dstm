@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "dstmRemove",
+  "name": "dstmSubRemove",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

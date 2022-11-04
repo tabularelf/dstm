@@ -1,4 +1,4 @@
-function dstmRemove(_name) {
+function dstmSubRemove(_name) {
     static _inst = __dstmSingleton();
     variable_struct_remove(_inst.__database, _name);
 }

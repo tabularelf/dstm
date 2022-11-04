@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "dstmAdd",
+  "name": "dstmSubExists",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
