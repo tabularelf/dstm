@@ -16,7 +16,7 @@
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":5,},
     {"id":{"name":"dstmTick","path":"scripts/dstmTick/dstmTick.yy",},"order":1,},
     {"id":{"name":"__dstmSubscriber","path":"scripts/__dstmSubscriber/__dstmSubscriber.yy",},"order":3,},
-    {"id":{"name":"dstmSubGetcurrentName","path":"scripts/dstmSubGetcurrentName/dstmSubGetcurrentName.yy",},"order":8,},
+    {"id":{"name":"dstmSubGetCurrentName","path":"scripts/dstmSubGetCurrentName/dstmSubGetCurrentName.yy",},"order":8,},
     {"id":{"name":"dstmSendMessage","path":"scripts/dstmSendMessage/dstmSendMessage.yy",},"order":2,},
     {"id":{"name":"dstmSubAdd","path":"scripts/dstmSubAdd/dstmSubAdd.yy",},"order":4,},
     {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":1,},

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "dstmSubGetcurrentName",
+  "name": "dstmSubGetCurrentName",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
