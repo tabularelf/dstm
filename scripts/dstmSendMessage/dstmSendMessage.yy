@@ -5,7 +5,7 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "pubsub",
-    "path": "folders/pubsub.yy",
+    "name": "dstm",
+    "path": "folders/dstm.yy",
   },
 }

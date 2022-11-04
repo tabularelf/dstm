@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "System",
-    "path": "folders/pubsub/System.yy",
+    "path": "folders/dstm/System.yy",
   },
 }
