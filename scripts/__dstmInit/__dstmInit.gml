@@ -1,5 +1,5 @@
 #macro __DSTM_CREDITS "@TabularElf - https://tabelf.link/"
-#macro __DSTM_VERSION "v1.0.0"
+#macro __DSTM_VERSION "v1.0.1"
 
 /// @ignore
 function __dstmSingleton() {
