@@ -1,4 +1,4 @@
-# dstm
+# DSTM v1.0.0
  Don't Shoot The Messenger - pubsub+ system for GameMaker
 
 Originally started this to figure out how to hijack broadcast events to allow objects to send messages... Ultimately decided to make my own pubsub system instead, with some extra features.
